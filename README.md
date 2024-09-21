@@ -1,6 +1,6 @@
 # Meta Front-End Developer Specialization
+![Captura de pantalla 2024-09-20 185455](https://github.com/user-attachments/assets/b9297837-ccbc-4c25-a85f-52d550d8a540)
 
-![courserameta](https://github.com/user-attachments/assets/fdd6e0af-d5e1-499b-abfb-4892791a056b)
 
 ## Description
 
