@@ -1,10 +1,10 @@
 # Meta Front-End Developer Specialization
-![Captura de pantalla 2024-09-20 185455](https://github.com/user-attachments/assets/b9297837-ccbc-4c25-a85f-52d550d8a540)
 
+![Captura de pantalla 2024-09-20 185455](https://github.com/user-attachments/assets/b9297837-ccbc-4c25-a85f-52d550d8a540)
 
 ## Description
 
-The **Meta Front-End Developer Specialization** is a comprehensive **9-course** program designed to prepare learners for an entry-level career in front-end development. 
+The **Meta Front-End Developer Specialization** is a comprehensive **9-course** program designed to prepare learners for an entry-level career in front-end development.
 
 ### Program Content
 
